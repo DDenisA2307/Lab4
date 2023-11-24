@@ -1,3 +1,4 @@
+```
 [root@lvm ~]# lsblk
 NAME                    MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
 sda                       8:0    0   40G  0 disk 
@@ -262,6 +263,7 @@ sdd                          8:48   0    1G  0 disk
 │ └─vg_var-lv_var          253:6    0  952M  0 lvm  /var
 └─vg_var-lv_var_rimage_1   253:5    0  952M  0 lvm  
   └─vg_var-lv_var          253:6    0  952M  0 lvm  /var
+```
 sde                          8:64   0    1G  0 disk 
 
 
